@@ -1,0 +1,3 @@
+"""CLI alarm clock package."""
+
+__version__ = "1.0.0"
